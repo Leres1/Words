@@ -1,0 +1,10 @@
+/__pycache__
+/build
+/dist
+/RE
+/words
+config.pickle
+favicon_.ico
+random_words.spec
+REList.pickle
+update.pickle
